@@ -1,0 +1,327 @@
+# depslib dependency file v1.0
+1327684343 source:d:\trial codes\skyfighter\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1329736596 d:\trial codes\skyfighter\imageloader.h
+
+1330726157 source:d:\trial codes\skyfighter\main.cpp
+	"header.h"
+	"imageloader.h"
+	"obj.h"
+	"texGen.h"
+	"cubes.h"
+	"skyBox.h"
+	"firstScreen.h"
+	"text.h"
+	"initFunc.h"
+	"report.h"
+	"AudioEngine.h"
+	"fire.h"
+	"globalVar.h"
+	"collision.h"
+
+1330634976 d:\trial codes\skyfighter\header.h
+	<iostream>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/freeglut.h>
+	<AL/alut.h>
+	"audioengine.h"
+
+1330659536 d:\trial codes\skyfighter\obj.h
+
+1329580551 d:\trial codes\skyfighter\texgen.h
+
+1330663758 d:\trial codes\skyfighter\cubes.h
+
+1330483109 d:\trial codes\skyfighter\skybox.h
+
+1330659892 source:d:\trial codes\skyfighter\obj.cpp
+	"header.h"
+	"obj.h"
+	"collision.h"
+
+1330483109 source:d:\trial codes\skyfighter\skybox.cpp
+	"header.h"
+	"skyBox.h"
+
+1330670389 source:d:\trial codes\skyfighter\cubes.cpp
+	"header.h"
+	"cubes.h"
+	"collision.h"
+
+1330409697 d:\trial codes\skyfighter\initfunc.h
+
+1330712038 d:\trial codes\skyfighter\globalvar.h
+
+1330659536 source:d:\trial codes\skyfighter\firstscreen.cpp
+	"header.h"
+	"firstScreen.h"
+
+1330637013 d:\trial codes\skyfighter\firstscreen.h
+
+1330014873 source:d:\trial codes\skyfighter\text3d.cpp
+	<fstream>
+	<math.h>
+	<OpenGL/OpenGL.h>
+	<GLUT/glut.h>
+	<GL/freeglut.h>
+	"text3d.h"
+
+1330014873 d:\trial codes\skyfighter\text3d.h
+	<string>
+
+1330016386 source:d:\trial codes\skyfighter\3dtext.cpp
+
+1330184380 source:d:\trial codes\skyfighter\text.cpp
+	"header.h"
+	"text.h"
+
+1330184380 d:\trial codes\skyfighter\text.h
+
+1330531486 d:\trial codes\skyfighter\collision.h
+
+1330661419 source:d:\trial codes\skyfighter\collision.cpp
+	"header.h"
+	"collision.h"
+	"obj.h"
+	"cubes.h"
+
+1330675403 source:d:\trial codes\skyfighter\report.cpp
+	"header.h"
+	"report.h"
+	"cubes.h"
+	"text.h"
+
+1330704162 d:\trial codes\skyfighter\report.h
+
+1330713753 source:d:\trial codes\skyfighter\audioengine.cpp
+	"AudioEngine.h"
+
+1330669280 d:\trial codes\skyfighter\audioengine.h
+	"header.h"
+
+1330712038 source:d:\trial codes\skyfighter\fire.cpp
+	"header.h"
+	"fire.h"
+	"obj.h"
+
+1330711807 d:\trial codes\skyfighter\fire.h
+
+1330847656 source:d:\trial codes\skyfighter_updated\audioengine.cpp
+	"AudioEngine.h"
+
+1330846665 d:\trial codes\skyfighter_updated\audioengine.h
+	"header.h"
+
+1330634976 d:\trial codes\skyfighter_updated\header.h
+	<iostream>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/freeglut.h>
+	<AL/alut.h>
+	"audioengine.h"
+
+1330843554 source:d:\trial codes\skyfighter_updated\collision.cpp
+	"header.h"
+	"collision.h"
+	"obj.h"
+	"cubes.h"
+	"fire.h"
+
+1330840572 d:\trial codes\skyfighter_updated\collision.h
+
+1330659536 d:\trial codes\skyfighter_updated\obj.h
+
+1330841571 d:\trial codes\skyfighter_updated\cubes.h
+
+1330848435 source:d:\trial codes\skyfighter_updated\cubes.cpp
+	"header.h"
+	"cubes.h"
+	"collision.h"
+
+1330848353 source:d:\trial codes\skyfighter_updated\fire.cpp
+	"header.h"
+	"fire.h"
+	"obj.h"
+
+1330842250 d:\trial codes\skyfighter_updated\fire.h
+
+1330659536 source:d:\trial codes\skyfighter_updated\firstscreen.cpp
+	"header.h"
+	"firstScreen.h"
+
+1330637013 d:\trial codes\skyfighter_updated\firstscreen.h
+
+1327684343 source:d:\trial codes\skyfighter_updated\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1329736596 d:\trial codes\skyfighter_updated\imageloader.h
+
+1330843207 source:d:\trial codes\skyfighter_updated\obj.cpp
+	"header.h"
+	"obj.h"
+	"collision.h"
+
+1330735742 source:d:\trial codes\skyfighter_updated\skybox.cpp
+	"header.h"
+	"skyBox.h"
+
+1330735578 d:\trial codes\skyfighter_updated\skybox.h
+
+1330184380 source:d:\trial codes\skyfighter_updated\text.cpp
+	"header.h"
+	"text.h"
+
+1330184380 d:\trial codes\skyfighter_updated\text.h
+
+1330846864 source:d:\trial codes\skyfighter_updated\report.cpp
+	"header.h"
+	"report.h"
+	"cubes.h"
+	"text.h"
+	"fire.h"
+
+1330846665 d:\trial codes\skyfighter_updated\report.h
+
+1330844462 source:d:\trial codes\skyfighter_updated\main.cpp
+	"header.h"
+	"imageloader.h"
+	"obj.h"
+	"texGen.h"
+	"cubes.h"
+	"skyBox.h"
+	"firstScreen.h"
+	"text.h"
+	"initFunc.h"
+	"report.h"
+	"AudioEngine.h"
+	"fire.h"
+	"globalVar.h"
+	"collision.h"
+
+1329580551 d:\trial codes\skyfighter_updated\texgen.h
+
+1330735578 d:\trial codes\skyfighter_updated\initfunc.h
+
+1330826040 d:\trial codes\skyfighter_updated\globalvar.h
+
+1330847656 source:d:\trial codes\c++ final project\audioengine.cpp
+	"AudioEngine.h"
+
+1330846665 d:\trial codes\c++ final project\audioengine.h
+	"header.h"
+
+1330634976 d:\trial codes\c++ final project\header.h
+	<iostream>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/freeglut.h>
+	<AL/alut.h>
+	"audioengine.h"
+
+1332418426 source:d:\trial codes\c++ final project\collision.cpp
+	"header.h"
+	"collision.h"
+	"obj.h"
+	"cubes.h"
+	"fire.h"
+
+1330840572 d:\trial codes\c++ final project\collision.h
+
+1330659536 d:\trial codes\c++ final project\obj.h
+
+1330841571 d:\trial codes\c++ final project\cubes.h
+
+1330842250 d:\trial codes\c++ final project\fire.h
+
+1330848435 source:d:\trial codes\c++ final project\cubes.cpp
+	"header.h"
+	"cubes.h"
+	"collision.h"
+
+1330848353 source:d:\trial codes\c++ final project\fire.cpp
+	"header.h"
+	"fire.h"
+	"obj.h"
+
+1330659536 source:d:\trial codes\c++ final project\firstscreen.cpp
+	"header.h"
+	"firstScreen.h"
+
+1330637013 d:\trial codes\c++ final project\firstscreen.h
+
+1327684343 source:d:\trial codes\c++ final project\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1329736596 d:\trial codes\c++ final project\imageloader.h
+
+1332944854 source:d:\trial codes\c++ final project\main.cpp
+	"header.h"
+	"imageloader.h"
+	"obj.h"
+	"texGen.h"
+	"cubes.h"
+	"skyBox.h"
+	"firstScreen.h"
+	"text.h"
+	"initFunc.h"
+	"report.h"
+	"AudioEngine.h"
+	"fire.h"
+	"globalVar.h"
+	"collision.h"
+
+1329580551 d:\trial codes\c++ final project\texgen.h
+
+1330735578 d:\trial codes\c++ final project\skybox.h
+
+1330184380 d:\trial codes\c++ final project\text.h
+
+1330735578 d:\trial codes\c++ final project\initfunc.h
+
+1330846665 d:\trial codes\c++ final project\report.h
+
+1330826040 d:\trial codes\c++ final project\globalvar.h
+
+1330843207 source:d:\trial codes\c++ final project\obj.cpp
+	"header.h"
+	"obj.h"
+	"collision.h"
+
+1330846864 source:d:\trial codes\c++ final project\report.cpp
+	"header.h"
+	"report.h"
+	"cubes.h"
+	"text.h"
+	"fire.h"
+
+1330735742 source:d:\trial codes\c++ final project\skybox.cpp
+	"header.h"
+	"skyBox.h"
+
+1330184380 source:d:\trial codes\c++ final project\text.cpp
+	"header.h"
+	"text.h"
+
